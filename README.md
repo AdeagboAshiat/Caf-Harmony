@@ -27,6 +27,7 @@ I performed data wrangling and cleaning on the datasets by removing duplicates a
 # Customer Behavior 
 
 <img width="252" height="190" alt="34b15cf28235f22196ed3cf16d4404a6_Screenshot%202025-08-27%20095618_raw=true" src="https://github.com/user-attachments/assets/a67d95e5-7129-4c71-ae31-8e1ec82a511f" /> <img width="273" height="194" alt="bb4cacb7410194648593fc94d8dea065_Screenshot%202025-08-27%20095625_raw=true" src="https://github.com/user-attachments/assets/e474ae72-5085-4821-82d2-ca6c0bab7384" />
+
  The female customers contributed 54% of total sales.
  Male customers accounted for the remaining 46%. 
 The age of customers ranged from 18 to 65 years and was classified into five groups: Young Adult, Adult, Elder, Aged and Old Aged 
@@ -35,6 +36,7 @@ Young Adult category had the highest revenue contribution at 24.6%, followed clo
 
 # Menu Performace
 <img width="414" height="196" alt="e562268c8b5fea32c8545ccb22ca3073_Screenshot%202025-08-27%20095603_raw=true" src="https://github.com/user-attachments/assets/a078021e-6dcf-4c39-9a9d-f1172082412b" />
+
 From the Product Revenue chart across all locations, Muffins emerged as the top-selling item, generating the highest revenue of $2,401 and standing out as the overall customer favorite. By applying the Sales Location slicer on the dashboard, I found that Muffins performed best at the Airport ($626) and Uptown ($729). In contrast, Iced Tea led in revenue at the Suburb ($659) and Downtown ($645). Cappuccino consistently ranked as the second-best seller across most locations, except in the Suburb, where it came in third.
 
 # Stock Management 
@@ -45,8 +47,8 @@ From the Stock Performance chart, Milk ranks as the most understocked item, foll
 # Employee Performance 
 <img width="287" height="313" alt="e05c425ff1298418d6b7d7cb9f4cf112_Screenshot%202025-08-27%20095639_raw=true" src="https://github.com/user-attachments/assets/2163d634-06aa-40ff-b3b8-a6e5bb26423a" />
 
-<img width="592" height="468" alt="image" src="https://github.com/user-attachments/assets/5eabf13d-ee1f-4827-919d-a87218af4553" />
-A toggle on the table filter for the bottom 10 performance (right chart) also reveals that Olivia King was the least performing employee at -$9,766 with an average sales target of $3,794.
+<img width="428" height="288" alt="Screenshot 2025-08-28 073921" src="https://github.com/user-attachments/assets/6d9782f3-5cac-4d28-a3b2-63c9f5c5f9f5" />
+
 
 # Customer Feedback
 <img width="262" height="192" alt="eb1d5c97a38c25c32a3ac93cdbb5e1af_Screenshot%202025-08-27%20095632_raw=true" src="https://github.com/user-attachments/assets/2e48f37e-ef84-4c7a-bd61-076f577f87d4" />
@@ -84,9 +86,7 @@ Introducing loyalty programs or incentives for repeat customers can strengthen r
 Immediate investment in employee welfare and training is vital. Addressing knowledge gaps in customer service, enhancing staff motivation, and providing meaningful benefits and incentives will boost productivity. In turn, improved employee performance translates directly into higher customer satisfaction and increased revenue.
 
 
-<img width="1483" height="569" alt="image" src="https://github.com/user-attachments/assets/87361c7c-2a44-4ece-a39c-a7a62d66284d" />
-
-
+<img width="674" height="252" alt="Screenshot 2025-08-28 081707" src="https://github.com/user-attachments/assets/730e2ce7-f009-4728-9dbe-b03ff7435583" />
 
 
 
